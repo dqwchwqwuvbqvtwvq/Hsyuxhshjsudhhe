@@ -1,4 +1,1 @@
-flask
-flask[async]
-aiohttp
-beautifulsoup4
+
